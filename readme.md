@@ -1,9 +1,5 @@
 # Project 3
 
-## Group Members
-### Raj Vora - 35551411
-### Rushil Patel - 66999320
-
 ## Problem Definition
 
 The goal of this project is to implement the Chord protocol and a simple object access service to prove it's usefulness using Erlang and Actor Model.
@@ -48,4 +44,6 @@ We managed to run Chord protocol for maximum 10000 nodes and 100 messages
 
 ![Graph3](images/graph3.png) <br>
 
-## 
+## Contributors
+- [@raj-vora](https://github.com/raj-vora)
+- [@rushilp1](https://github.com/rushilp1)
